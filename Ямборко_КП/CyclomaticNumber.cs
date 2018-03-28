@@ -10,25 +10,21 @@ namespace Ямборко_КП
     {
         ModelGraph graph;
         int[] temp_array;
-
         public CyclomaticNumber(ModelGraph graph)
         {
             this.graph = graph;
             
         }
-
         public void Characteristic()
         {
             graph.Counter_connectivity = 0;
             temp_array = new int[graph.Vertex];
             for (int i = 0; i < graph.Vertex; i++)
             {
-
                 if (temp_array[i] != 0)
                 {
                     continue;
                 }
-
                 temp_array[i] = ++graph.Counter_connectivity;
                 for (int j = 0; j < graph.Vertex; j++)
                 {
@@ -40,7 +36,6 @@ namespace Ямборко_КП
                 }
             }
         }
-
         private void find1(int k)
         {
             for (int i = 0; i < graph.Vertex; i++)
