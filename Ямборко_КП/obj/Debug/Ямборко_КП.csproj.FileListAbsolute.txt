@@ -1,0 +1,13 @@
+C:\Users\KING\source\repos\Ямборко_КП\bin\Debug\Ямборко_КП.exe.config
+C:\Users\KING\source\repos\Ямборко_КП\bin\Debug\Ямборко_КП.exe
+C:\Users\KING\source\repos\Ямборко_КП\bin\Debug\Ямборко_КП.pdb
+C:\Users\KING\source\repos\Ямборко_КП\obj\Debug\Ямборко_КП.csprojResolveAssemblyReference.cache
+C:\Users\KING\source\repos\Ямборко_КП\obj\Debug\Ямборко_КП.Form1.resources
+C:\Users\KING\source\repos\Ямборко_КП\obj\Debug\Ямборко_КП.Properties.Resources.resources
+C:\Users\KING\source\repos\Ямборко_КП\obj\Debug\Ямборко_КП.csproj.GenerateResource.Cache
+C:\Users\KING\source\repos\Ямборко_КП\obj\Debug\Ямборко_КП.csproj.CoreCompileInputs.cache
+C:\Users\KING\source\repos\Ямборко_КП\obj\Debug\Ямборко_КП.exe
+C:\Users\KING\source\repos\Ямборко_КП\obj\Debug\Ямборко_КП.pdb
+D:\Ямборко_КП\bin\Debug\Ямборко_КП.exe.config
+D:\Ямборко_КП\obj\Debug\Ямборко_КП.exe
+D:\Ямборко_КП\obj\Debug\Ямборко_КП.pdb
